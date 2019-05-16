@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-29T10:57:13Z" name="Default suite" finished-at="2019-04-29T10:57:28Z" duration-ms="14531">
+    <groups>
+    </groups>
+    <test started-at="2019-04-29T10:57:13Z" name="Default test" finished-at="2019-04-29T10:57:28Z" duration-ms="14531">
+      <class name="selenium.selenium_maven.testNGBWTest">
+        <test-method signature="testNGBrowserTest()[pri:0, instance:selenium.selenium_maven.testNGBWTest@2a5c8d3f]" started-at="2019-04-29T10:57:13Z" name="testNGBrowserTest" finished-at="2019-04-29T10:57:28Z" duration-ms="14450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNGBrowserTest -->
+      </class> <!-- selenium.selenium_maven.testNGBWTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
